@@ -2,7 +2,7 @@
     "compilerOptions": {
         "baseUrl": ".",
         "paths": {
-            "@/*": ["./resources/js/*"],
+            "@/*": ["./resources/js/Shadcn/*"],
             "ziggy-js": ["./vendor/tightenco/ziggy"]
         }
     },
